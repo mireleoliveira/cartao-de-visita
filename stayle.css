@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+body {
+  width: 1024px;
+}
+
+.cartao {
+  background: linear-gradient(#1c995f, rgb(76, 158, 107), #7cc29c);
+  width: 500px;
+  height: 200px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.informacoes{
+  float: right;
+  max-width: 500px;
+  margin: 10px;
+}
+
+.nome{
+  font-size: 15px;
+  margin: 10px;
+}
+img {
+  width: 120px;
+  height: 200px;
+  margin-left: 50px;
+  border-radius: 200px;
+}
+
+
+
+
+
+
+
+
+
